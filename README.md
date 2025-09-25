@@ -1,4 +1,5 @@
 🤖 Botify
+
 Botify is a lightweight, modular chatbot framework that connects directly to the Gemini API, enabling intelligent, real-time conversations powered by cutting-edge AI. Whether you're building a virtual assistant, customer support bot, or educational tutor, Botify gives you the tools to create responsive and context-aware dialogue systems.
 
 ✨ Features
